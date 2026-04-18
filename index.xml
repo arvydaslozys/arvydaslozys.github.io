@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The collection of brainrot</title>
+    <link>arvydas.github.io/</link>
+    <description>Recent content on The collection of brainrot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2026 17:45:41 +0300</lastBuildDate>
+    <atom:link href="arvydas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tralalelo puslapis</title>
+      <link>arvydas.github.io/posts/tralalelo/</link>
+      <pubDate>Sat, 18 Apr 2026 17:45:41 +0300</pubDate>
+      <guid>arvydas.github.io/posts/tralalelo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
